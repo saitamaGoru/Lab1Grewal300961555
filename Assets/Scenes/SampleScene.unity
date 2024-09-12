@@ -246,10 +246,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _pointPrefab: []
   _vectors:
-  - {x: 1, y: 2, z: 0}
-  - {x: 2, y: 1, z: 0}
-  - {x: 6, y: 5, z: 0}
-  - {x: 8, y: 4, z: 0}
+  - {x: 5, y: 1, z: 19}
+  - {x: -2, y: 1, z: 12}
+  - {x: -14, y: 1, z: -20}
+  - {x: -7, y: 1, z: -5}
+  - {x: -9, y: 1, z: 5}
+  - {x: -16, y: 1, z: 12}
   point: {fileID: 6014373936139671722, guid: 52ce26b5db51dc14f97cdd29e593b727, type: 3}
   _speed: 5
 --- !u!54 &251717075
